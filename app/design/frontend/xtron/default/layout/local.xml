@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<layout>
+    <default>
+       <remove name="left.permanent.callout" />
+       <remove name="right.permanent.callout" />
+       <remove name="right.poll" />
+       <remove name="left.newsletter" />
+       <remove name="store_switcher" />
+       <remove name="store_languager" />
+       <remove name="paypal.partner.right.logo" />
+    </default>
+</layout>
+
