@@ -8,6 +8,7 @@
        <remove name="store_switcher" />
        <remove name="store_languager" />
        <remove name="paypal.partner.right.logo" />
+
     </default>
 </layout>
 
